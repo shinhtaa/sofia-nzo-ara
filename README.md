@@ -6,7 +6,7 @@
 - Kelas: 2A PSTI
 
 ## Identitas Kakak Tingkat
-- Nama: Diana Qistin Thaniyah
+- Nama: Diana Qistin Thoniyah
 - Angkatan: 2023
 - Program Studi: Pendidikan Sistem dan Teknologi Informasi
   
