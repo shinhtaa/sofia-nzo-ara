@@ -17,15 +17,14 @@
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
- - Input berupa nilai pemasukan/pengeluaran/dua-duanya
- - Penjumlahan otomatis pemasukan/pengeluaran/dua-duanya
- - Output berupa jumlah pemasukan/pengeluaran/dua-duanya
+ - Input berupa angka integer (sebagai pilihan menu)
+ - Penjumlahan otomatis pemasukan atau pengeluaran
+ - Output berupa jumlah pemasukan dan pengeluaran
   
 - Konsep yang digunakan:
  - Input/output
  - Variabel
  - If-else
- - Fungsi strcmp()
  - Loop do-while
   
 ## Link Video Demo
