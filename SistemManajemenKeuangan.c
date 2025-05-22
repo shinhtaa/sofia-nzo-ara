@@ -2,11 +2,12 @@
 
 int main () {
     int menu;
-    int pemasukan, pengeluaran;
+    int pemasukan, pengeluaran, sisaUang;
     char keterangan[50];
     int jumlahPemasukan = 0;
     int jumlahPengeluaran = 0;
     char lanjut;
+    
 
     do {
         printf("\nSistem Manajemen Keuangan Harian\n");
@@ -48,6 +49,8 @@ int main () {
             printf("Ringkasan Pemasukan dan Pengeluaran Hari Ini\n");
             printf("Pemasukan: Rp. %d\n", jumlahPemasukan);
             printf("Pengeluaran: Rp. %d\n", jumlahPengeluaran);
+            sisaUang = jumlahPemasukan - jumlahPengeluaran;
+            printf("Sisa uang: Rp. %d", sisaUang);
             printf("\n");
         } else if (menu < 1 || menu > 4) {
             printf("Menu tidak tersedia. Silahkan coba lagi.\n");
