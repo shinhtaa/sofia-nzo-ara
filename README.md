@@ -17,13 +17,14 @@
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
- - Input berupa angka integer (sebagai pilihan menu)
- - Penjumlahan otomatis pemasukan atau pengeluaran
- - Output berupa jumlah pemasukan dan pengeluaran
+ - Input pemasukan dan pengeluaran
+ - Menjumlahkan semua pemasukan dan pengeluaran
+ - Output berupa jumlah pemasukan dan pengeluaran serta ringksasan dalam sehari
   
 - Konsep yang digunakan:
  - Input/output
  - Variabel
+ - Array 
  - If-else
  - Loop do-while
   
