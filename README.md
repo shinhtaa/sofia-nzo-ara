@@ -18,13 +18,12 @@
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
  - Input pemasukan dan pengeluaran
- - Menjumlahkan semua pemasukan dan pengeluaran
- - Output berupa jumlah pemasukan dan pengeluaran serta ringksasan dalam sehari
+ - Menjumlahkan semua pemasukan dan pengeluaran dengan penjumlahan aritmatika (jumlahPemasukan += pemasukan;)
+ - Output berupa jumlah pemasukan dan pengeluaran, sisa uang serta ringksasan dalam sehari
   
 - Konsep yang digunakan:
- - Input/output
- - Variabel
- - Array 
+ - Input/output (scanf, printf)
+ - Variabel (int, char)
  - If-else
  - Loop do-while
   
